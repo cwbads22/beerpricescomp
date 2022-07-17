@@ -7,3 +7,6 @@ Script inicial de um projeto que compare a razão entre preço e capacidade dos 
 Agora só compara dois, não tem interface... será desenvolvido!
 
 :beer: :beer: :beer:
+
+On Line no Replit
+https://replit.com/@cwbads22/Beer-Prices-Comparison#main.py
