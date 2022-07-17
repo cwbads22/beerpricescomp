@@ -8,5 +8,5 @@ Agora só compara dois, não tem interface... será desenvolvido!
 
 :beer: :beer: :beer:
 
-On Line no Replit
+On Line no Replit <br>
 https://replit.com/@cwbads22/Beer-Prices-Comparison#main.py
